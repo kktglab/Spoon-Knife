@@ -1,0 +1,54 @@
+[33mcommit 957fb93a2ba83e50c7aa1b89b2cf71c6b91cb817[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Kasprzyczak <krzysztof.kasprzyczak@fujitsu.com>
+Date:   Wed Jul 17 10:11:58 2024 +0200
+
+    abc ttt
+
+[33mcommit a23743a185364cf6ce430447185f9fe2c1f82a8e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mupdate-index.html[m[33m)[m
+Author: Kris K620 <krisk620@mssws.doo>
+Date:   Thu Jun 20 22:06:24 2024 +0200
+
+    test1
+
+[33mcommit 2e20fb2b2d0fc08a08f3a9dc20e77ca15e9c1073[m
+Merge: d0dd1f6 69e0d71
+Author: kktglab <krzysztof.kasprzyczak@gmail.com>
+Date:   Thu Jun 20 21:54:56 2024 +0200
+
+    Merge pull request #2 from kktglab/update-intex.html
+    
+    Update intex.html
+
+[33mcommit 69e0d71a770ebe33142a95774869d88cd2a79fc3[m[33m ([m[1;31morigin/update-intex.html[m[33m)[m
+Author: kktglab <krzysztof.kasprzyczak@gmail.com>
+Date:   Thu Jun 20 21:47:56 2024 +0200
+
+    Update styles.css
+    
+    Modified CSS tags and selectors
+
+[33mcommit cfc70669130f83236c197c32da283a76b35f865a[m
+Author: kktglab <krzysztof.kasprzyczak@gmail.com>
+Date:   Thu Jun 20 21:46:57 2024 +0200
+
+    Update index.html
+    
+    Modified the image and paragraph text
+
+[33mcommit d0dd1f61b33d64e29d8bc1372a94ef6a2fee76a9[m
+Author: The Octocat <octocat@nowhere.com>
+Date:   Wed Feb 12 15:20:44 2014 -0800
+
+    Pointing to the guide for forking
+
+[33mcommit bb4cc8d3b2e14b3af5df699876dd4ff3acd00b7f[m
+Author: The Octocat <octocat@nowhere.com>
+Date:   Tue Feb 4 14:38:36 2014 -0800
+
+    Create styles.css and updated README
+
+[33mcommit a30c19e3f13765a3b48829788bc1cb8b4e95cee4[m
+Author: The Octocat <octocat@nowhere.com>
+Date:   Tue Feb 4 14:38:24 2014 -0800
+
+    Created index page for future collaborative edits
